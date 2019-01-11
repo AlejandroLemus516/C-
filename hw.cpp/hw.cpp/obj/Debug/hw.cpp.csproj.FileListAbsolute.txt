@@ -1,0 +1,2 @@
+c:\users\isbad_000\documents\visual studio 2015\Projects\hw.cpp\hw.cpp\bin\Debug\hw.cpp.exe.config
+G:\C++ work\hw.cpp\hw.cpp\bin\Debug\hw.cpp.exe.config
